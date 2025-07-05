@@ -1,7 +1,7 @@
 ## Nice of you to stop by 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitdipakamin) 
 
 ### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitdipakamin) 
 - 👨‍🔬 I'm a research scientist with 20+ years experience in genetics, cancer biology, immunology, and immuno-oncology
 - 👨‍🎓 I’ve completed: [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50 Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python), [CS50 R](https://pll.harvard.edu/course/data-science-r-basics), [CS50 SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
 - 📂 I’m currently working on several projects to learn about data science, machine learning, and bioinformatics
