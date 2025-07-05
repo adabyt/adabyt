@@ -11,7 +11,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=plastic&logo=affinity-designer&logoColor=white) 
-![Affinity Photo](https://img.shields.io/badge/affinity%photo-%237E4DD2.svg?style=plastic&logo=affinity-photo&logoColor=white) 
+![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=plastic&logo=affinity-photo&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
