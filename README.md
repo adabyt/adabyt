@@ -29,6 +29,10 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-%235d99a1.svg?style=plastic&logo=seaborn&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 
+<p align="center">
+  <img src="https://github.com/adabyt/adabyt/blob/main/Banner_Github_smaller.png" />
+</p>
+
 
 
 <!--
